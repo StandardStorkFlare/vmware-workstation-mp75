@@ -1,4 +1,4 @@
-# 
+# Enhance VMware Workstation for PC | VMware Workstation for Windows with smart Plugin for VMware Workstation for PC | VMware Workstation for Windows - shared-folders and
 
 
 
